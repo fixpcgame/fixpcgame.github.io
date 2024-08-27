@@ -149,7 +149,6 @@ body {
     background-image: url('Assets/Space.png');
     background-size: cover;
     height: 125vmin;
-    border: 1px solid green;
 }
 
 .home {
